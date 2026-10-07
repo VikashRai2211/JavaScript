@@ -9,7 +9,7 @@
 //   Primitive :-   
 //                 String , Null , Number , Boolean , Undefined , Symbol , BigInt
 
-/*
+
 const score =   100
 const scorevalue = 100.3
 
@@ -46,5 +46,5 @@ const myFunction = function(){
 
 console.log(typeof outsideTemp);
 
-*/
+
 
