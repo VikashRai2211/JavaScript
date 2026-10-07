@@ -10,15 +10,15 @@
 // console.log(typeof (valueInNumbar));
 
 
-let temprature = 0
-console.log(typeof number);
+// let temprature = 0
+// console.log(typeof number);
 
 
-let valueInString = String(temprature);
+// let valueInString = String(temprature);
 
-console.log(temprature);
+// console.log(temprature);
 
-console.log(typeof (valueInString));
+// console.log(typeof (valueInString));
 
 
 
@@ -43,6 +43,8 @@ let valueInString = String(temprature);
 console.log(temprature);
 
 console.log(typeof (valueInString));
+
+
 
 
 
