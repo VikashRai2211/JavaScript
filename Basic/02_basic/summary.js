@@ -1,26 +1,26 @@
-// const users_detail = {
+const users_detail = {
 
-// username: "vikash",
-// password:  123456,
-// gmail:  "vikash@gmail.com",
-// pone_No:  7854524871,
+username: "vikash",
+password:  123456,
+gmail:  "vikash@gmail.com",
+pone_No:  7854524871,
 
-// }
+}
 
-// console.log(users_detail.password);
-
-
-
-// let myDate = new Date()
-
-// console.log(myDate); 
-// console.log(myDate.toString());
-// console.log(myDate.toDateString());
-// console.log(myDate.toLocaleString());
+console.log(users_detail.password);
 
 
-// const city_name = ["Delhi", "Varanasi", "Goa", "Allahabad"];
-// console.log(city_name);
+
+let myDate = new Date()
+
+console.log(myDate); 
+console.log(myDate.toString());
+console.log(myDate.toDateString());
+console.log(myDate.toLocaleString());
+
+
+const city_name = ["Delhi", "Varanasi", "Goa", "Allahabad"];
+console.log(city_name);
 
 
 const girl_name = ["Kajal", "Radha", "Sita", "Ragini"];
