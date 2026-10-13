@@ -13,27 +13,27 @@ tinderUser.isLoggedIn = false
 
 //     gmail : "viaksh@gmail.com",
 //     age: 23,
-//     fullName :{
+// //     fullName :{
 
-//         first:"vikash",
-//         last: "kumar",
+// //         first:"vikash",
+// //         last: "kumar",
 
-// //     }
+// // //     }
 
-// // }
+// // // }
 
-// // console.log(vikashUser);
-// // console.log(vikashUser.fullName.last);
-// // console.log(vikashUser.fullName.age);
+console.log(vikashUser);
+console.log(vikashUser.fullName.last);
+console.log(vikashUser.fullName.age);
 
-// // const obj1 = {1: "a", 2: "b"}
-// // const obj2 = {3: "a", 4: "b"}
+// const obj1 = {1: "a", 2: "b"}
+// const obj2 = {3: "a", 4: "b"}
 
-// // // const obj3 = {obj1, obj2};
-// // // const obj4 = Object.assign( {}, obj1, obj2);
+// const obj3 = {obj1, obj2};
+// const obj4 = Object.assign( {}, obj1, obj2);
 
-// // const obj7 = {...obj1, ...obj2}
-// // console.log(obj7);
+// const obj7 = {...obj1, ...obj2}
+// console.log(obj7);
 
 // const users = [
 //     {
@@ -50,20 +50,20 @@ tinderUser.isLoggedIn = false
 // console.log(users[0].id);
 // console.log(users[1].mail);
 
-// // console.log(Object.keys(tinderUser));
-// // console.log(Object.values(tinderUser));
-// console.log(Object.entries(tinderUser));
+console.log(Object.keys(tinderUser));
+console.log(Object.values(tinderUser));
+console.log(Object.entries(tinderUser));
 
 // console.log(tinderUser.hasOwnProperty('mail'));
 
-const course = {
-    courseName: "js in english",
-    coursePrice: 444,
-    courseInstructor: "vikash"
-}
+// const course = {
+//     courseName: "js in english",
+//     coursePrice: 444,
+//     courseInstructor: "vikash"
+// }
 
-// console.log(course.courseInstructor);
+console.log(course.courseInstructor);
 const { courseInstructor: intr } = course
 
-// console.log(courseInstructor);
-console.log(intr);
+// // console.log(courseInstructor);
+// console.log(intr);

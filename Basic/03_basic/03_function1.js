@@ -1,11 +1,11 @@
 // function myName(){
 
-//     console.log("v");
-//     console.log("i");
-//     console.log("k");
-//     console.log("a");
-//     console.log("s");
-//     console.log("h");
+    console.log("v");
+    console.log("i");
+    console.log("k");
+    console.log("a");
+    console.log("s");
+    console.log("h");
 
 
 // }
@@ -28,8 +28,8 @@
 // }
 
 // addTwoNumber(4, 5)
-// const result = addTwoNumber(4,5)
-// console.log("Result :",result);
+const result = addTwoNumber(4,5)
+console.log("Result :",result);
 
 function loginUserMassage(username = "vik") {
 
