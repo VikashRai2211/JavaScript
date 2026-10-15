@@ -5,7 +5,7 @@ function calculateCardPrice(val1, val2, ...num1) {
 
 }
 
-// console.log(calculateCardPrice(100, 200, 700, 500));
+console.log(calculateCardPrice(100, 200, 700, 500));
 
 const user = {
     username: "vikash",
@@ -32,6 +32,6 @@ function returnSecondValue(getArray) {
 
 }
 
-// console.log(returnSecondValue(myNewArray));
+console.log(returnSecondValue(myNewArray));
 
 console.log(returnSecondValue([200, 400, 500, 1000]));
