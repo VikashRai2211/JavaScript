@@ -1,41 +1,41 @@
 // --------------- object -------------
 
-// const newUser = {
+const newUser = {
 
-//     gmailId : "gopi@gmial.com",
-//     city : "varanasi",
-//     fullName : {
-//         firstName : "vikash",
-//         lastName : "kumar",
+    gmailId : "gopi@gmial.com",
+    city : "varanasi",
+    fullName : {
+        firstName : "vikash",
+        lastName : "kumar",
 
-//     }
-// }
+    }
+}
 
-// console.log(newUser.fullName);
-// console.log(newUser.fullName.firstName);
-// console.log(newUser.fullName.lastName);
+console.log(newUser.fullName);
+console.log(newUser.fullName.firstName);
+console.log(newUser.fullName.lastName);
 
 // --------- function ---------------
 
-// function city (){
+function city (){
     
-//     console.log("Varanasi");
-//     console.log("Delhi");
-//     console.log("Mumbai")
+    console.log("Varanasi");
+    console.log("Delhi");
+    console.log("Mumbai")
 
-// }
+}
 
-// city()
+city()
 
 
-// function Addnums () {
+function Addnums () {
 
-//     console.log(num1, num2);
-// }
+    console.log(num1, num2);
+}
 
-// Addnums(4, 5)
-// const result = Addnums(4, 5)
-// console.log(result);
+Addnums(4, 5)
+const result = Addnums(4, 5)
+console.log(result);
 
 
 // ----------------- scope ---------- 
